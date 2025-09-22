@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "366670170510",
+    "project_id": "sweet-reactions",
+    "storage_bucket": "sweet-reactions.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366670170510:android:2dff4fc60d0ac7e3c63cdf",
+        "android_client_info": {
+          "package_name": "com.galacticgeeks.sweetreactionsai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366670170510-1o5c3k00psoj3gsnb2kg4ho5hlpfur0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.galacticgeeks.sweetreactionsai",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "366670170510-ves8a4jidt2dkd027t6chhsknvec4um5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqq7wPJlJBYr68mcNdLy5wx_yHyt2Tnps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366670170510-ves8a4jidt2dkd027t6chhsknvec4um5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "366670170510-jpdh3cv06ufkhg2v6iclufg0uq6herpk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.galacticgeeks.sweetreactionsai"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366670170510:android:75a3f51dbc991379c63cdf",
+        "android_client_info": {
+          "package_name": "com.sweetreactions.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366670170510-p9i4ried9sprou2ahv5cautoq7vp40gi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sweetreactions.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "366670170510-ves8a4jidt2dkd027t6chhsknvec4um5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqq7wPJlJBYr68mcNdLy5wx_yHyt2Tnps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366670170510-ves8a4jidt2dkd027t6chhsknvec4um5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "366670170510-jpdh3cv06ufkhg2v6iclufg0uq6herpk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.galacticgeeks.sweetreactionsai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
