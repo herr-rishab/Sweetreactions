@@ -6,15 +6,20 @@
 
 This is a cross-platform nutrition coach, built from the ground up, that connects to a Generative AI model to provide real-time meal optimizations. Developed in partnership with health influencer **Karan Sarin (500K+ followers)**, the application is designed to be a user-friendly tool for promoting sustainable dietary habits.
 
-<p align="left">
-  <a href="https://play.google.com/store/apps/details?id=com.sweetreactions.app" target="_blank">
-    <img alt="Get it on Google Play" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="55"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://apps.apple.com/in/app/sweetreactions-ai/id6749315439" target="_blank">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="55"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td valign="middle">
+      <a href="https://play.google.com/store/apps/details?id=com.sweetreactions.app" target="_blank">
+        <img alt="Get it on Google Play" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50">
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://apps.apple.com/in/app/sweetreactions-ai/id6749315439" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="Download on the App Store" height="50">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
